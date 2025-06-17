@@ -76,7 +76,7 @@
     "node-gyp-build": "^4"
   },
   "devDependencies": {
-    "@types/node": "^20",
+    "@types/node": "^24",
     "electron": "^36",
     "prebuildify": "^5",
     "rimraf": "^5",
