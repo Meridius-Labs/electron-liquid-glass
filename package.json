@@ -77,7 +77,7 @@
     "@types/node": "^20",
     "electron": "^36",
     "node-gyp": "^11.2.0",
-    "prebuildify": "^5",
+    "prebuildify": "^6",
     "rimraf": "^5",
     "tsdown": "^0.12.8",
     "typescript": "^5"
