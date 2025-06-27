@@ -80,7 +80,7 @@
     "electron": "^36",
     "node-gyp": "^11.2.0",
     "prebuildify": "^5",
-    "rimraf": "^5",
+    "rimraf": "^6",
     "tsdown": "^0.12.8",
     "typescript": "^5"
   }
