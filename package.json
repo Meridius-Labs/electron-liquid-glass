@@ -81,7 +81,7 @@
     "node-gyp": "^11.2.0",
     "prebuildify": "^5",
     "rimraf": "^5",
-    "tsdown": "^0.12.8",
+    "tsdown": "^0.13.2",
     "typescript": "^5"
   }
 }
