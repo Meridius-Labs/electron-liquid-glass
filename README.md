@@ -14,7 +14,7 @@
 
 _🪄 NATIVE `NSGlassEffectView` integration with ZERO CSS hacks_
 
-[Installation](#installation) • [Quick Start](#quick-start) • [API](#api) • [Examples](#examples) • [Contributing](#contributing)
+[Installation](#-installation) • [Quick Start](#-quick-start) • [API](#-api-reference) • [Examples](examples/) • [Contributing](#-contributing)
 
 </div>
 
