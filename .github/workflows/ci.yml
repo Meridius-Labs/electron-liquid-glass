@@ -151,7 +151,7 @@ jobs:
         run: bun install --frozen-lockfile
 
       - name: Download build artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v5
         with:
           name: dist-files
           path: dist/
