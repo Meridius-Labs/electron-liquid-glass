@@ -77,7 +77,7 @@
   "devDependencies": {
     "@3c1u/bun-run-all": "^0.1.2",
     "@types/node": "^20",
-    "electron": "^36",
+    "electron": "^38",
     "node-gyp": "^11.2.0",
     "prebuildify": "^5",
     "rimraf": "^5",
