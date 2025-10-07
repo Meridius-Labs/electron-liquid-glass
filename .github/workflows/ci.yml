@@ -94,7 +94,7 @@ jobs:
           bun-version: latest
 
       - name: Install Python (for node-gyp)
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
